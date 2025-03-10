@@ -55,6 +55,7 @@ h1 {
     box-shadow: 0 0 10px #00ffcc;
     cursor: pointer;
     transition: 0.3s;
+    display: grid;
 }
 
 .item:hover {
